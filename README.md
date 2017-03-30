@@ -2,6 +2,24 @@
 
 ## Map of Corona 
 - 
+
+- CORONA/NORTHERN CORONA IS LOCATED IN 
+- QUEENS, NY 11368 (IN BETWEEN JACKSON HEIGHTS AND FLUSHING, NY).
+- IS 7 MILES FROM THE EMPIRE STATE BUILDING.
+- IS 9 MILES FROM FEDERAL HALL.
+
+- Tract Income Level: Moderate
+- 2016 FFIEC Estimated MSA/MD/non-MSA/MD Median Family Income: $72600
+- 2016 Estimated Tract Median Family Income: $50072
+- 2010 Tract Median Family Income: $46905
+- Tract Median Family Income %: 68.97
+- Tract Population: 3303
+- Tract Minority %: 98.73
+- Tract Minority Population: 3261
+- Owner Occupied Units: 141
+- 1 to 4 Family units: 638
+
+
 ## Top Complaints 
 - Blocked Driveway  17088
 - Noise - Residential  12085
