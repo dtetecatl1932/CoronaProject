@@ -1,7 +1,7 @@
 # CoronaProject
 
 ## Map of Corona and Demographics  
-
+hello-world2/map.geojson 
 
 - CORONA/NORTHERN CORONA IS LOCATED IN 
 - QUEENS, NY 11368 (IN BETWEEN JACKSON HEIGHTS AND FLUSHING, NY).
