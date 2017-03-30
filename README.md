@@ -3,6 +3,7 @@
 ## Map of Corona and Demographics  
 http://geojson.io/#id=gist:anonymous/ed6e3aa3bd222b90fe5fd9825455f82d&map=14/40.7468/-73.8655 
 
+
 - CORONA/NORTHERN CORONA IS LOCATED IN 
 - QUEENS, NY 11368 (IN BETWEEN JACKSON HEIGHTS AND FLUSHING, NY).
 - IS 7 MILES FROM THE EMPIRE STATE BUILDING.
@@ -32,3 +33,4 @@ http://geojson.io/#id=gist:anonymous/ed6e3aa3bd222b90fe5fd9825455f82d&map=14/40.
 - PLUMBING  3206
 - Dirty Conditions  3064
 
+![](https://raw.githubusercontent.com/dtetecatl1932/CoronaProject/master/Screen%20Shot%202017-03-08%20at%205.51.45%20PM.png)
